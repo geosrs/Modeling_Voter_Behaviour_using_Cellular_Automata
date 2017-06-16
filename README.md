@@ -1,3 +1,5 @@
+# Modeling Voter Behaviour Using Cellular Automata
+
 The goal of this project is to study models which are able to capture voting behaviour and observe
 the long term emergent behaviour of the entire voting system. This is a fairly complicated problem
 to tackle. Thus, an incremental approach has been used. Since the
